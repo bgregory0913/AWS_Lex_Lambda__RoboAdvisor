@@ -1,11 +1,13 @@
 <h3 align="center">About The Project:</h3>
 <p align="center">
-  <a href="https://github.com/bgregory0913/unit13-challenge">
-    <img src="Images/Robot.jpg" alt="Robot" align="center">
+  <a href="https://github.com/bgregory0913/unit13-challenge/Images">
+    <img src="robot.jpg" alt="Robot" align="center">
   </a>
 </p>
+
+
 # Using AWS Lex and AWS Lambda To Create a RoboAdvisor:
-AWS Lex and Lambda can be used to automate just abut any human conversational tasks then securely store and envrypt the conversations. The conversations be done with both text and voice through Lex and can be used, for example, scheduling a doctor appointment, booking a trip, or ordering flowers. AWS provides blueprints for these examples [here](https://us-west-2.console.aws.amazon.com/lex/home?region=us-west-2#bot-create:) if you wuold like to learn more.
+AWS Lex and Lambda can be used to automate just abut any human conversational tasks then securely store and envrypt the conversations. The conversations be done with both text and voice through Lex and can be used, for example, scheduling a doctor appointment, booking a trip, or ordering flowers. AWS provides blueprints for these examples [here](https://us-west-2.console.aws.amazon.com/lex/home?region=us-west-2#bot-create) if you wuold like to learn more.
 
 ### Project Overview:
 RoboAdvisor services are popping up everywhere and most banks and brokers already use them. They allow investors the opportunity to invest money or receive financial advice without paying to speak to "human" financial advisor.
@@ -39,4 +41,3 @@ This Lambda code is written in Python (3.7) and connected to the Lex Bot.
 
 ## Contact:
 Blake Gregory - [LinkedIn](www.linkedin.com/in/blake-greg) - blake.gregory@tilineum.com
-
