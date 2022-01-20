@@ -1,10 +1,12 @@
 <h3 align="center">About The Project:</h3>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/bgregory0913/AWS_Lex_Lambda__RoboAdvisor/Images">
     <img src="robot.jpg" alt="Robot" align="center">
   </a>
-</p>
+</p> -->
 
+
+![Robot](https://github.com/bgregory0913/AWS_Lex_Lambda__RoboAdvisor/blob/main/Images/robot.jpg)
 
 # Using AWS Lex and AWS Lambda To Create a RoboAdvisor:
 AWS Lex and Lambda can be used to automate just abut any human conversational tasks then securely store and envrypt the conversations. The conversations be done with both text and voice through Lex and can be used, for example, scheduling a doctor appointment, booking a trip, or ordering flowers. AWS provides blueprints for these examples [here](https://us-west-2.console.aws.amazon.com/lex/home?region=us-west-2#bot-create) if you wuold like to learn more.
