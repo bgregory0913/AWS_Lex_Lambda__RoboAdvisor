@@ -1,6 +1,6 @@
 <h3 align="center">About The Project:</h3>
 <p align="center">
-  <a href="https://github.com/bgregory0913/unit13-challenge/Images">
+  <a href="https://github.com/bgregory0913/AWS_Lex_Lambda__RoboAdvisor/Images">
     <img src="robot.jpg" alt="Robot" align="center">
   </a>
 </p>
